@@ -1,4 +1,4 @@
-# Forecasting-Wine-Sales-for-ABC-Estate-Wines-company
+# Forecasting-Wine Sales for ABC Estate Wines company
 
 Course: Time Series Forecasting
 
